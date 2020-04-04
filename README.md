@@ -1,4 +1,4 @@
-# Reinforcement_learning_gridworld
+# Reinforcement learning gridworld
 
 Suppose that an agent is situated in the 4×3 environment shown in the figure below. Beginning
 in the start state, it must choose an action at each time step. The interaction with the environment
